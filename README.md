@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @florianAriasu
 - 👀 I’m interested in sports and CS
-- 🌱 I’m currently learning to cpoe with college life :))
+- 🌱 I’m currently learning to cope with college life :))
 - 💞️ I’m looking to collaborate on different C projects so that I advance quickly
 - 📫 How to reach me by email: florin_ariasu@yahoo.com
 
