@@ -19,7 +19,7 @@
 </p>
 
 ## Watch snake eating my github contributions 
- 
+
 ![snake_gif](https://github.com/florianAriasu/florianAriasu/blob/output/github-snake-dark.svg)
 
 
