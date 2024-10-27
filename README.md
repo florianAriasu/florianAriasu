@@ -9,4 +9,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florianAriasu&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
 
