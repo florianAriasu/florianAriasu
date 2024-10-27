@@ -22,4 +22,6 @@
 
 ![snake_gif](https://github.com/florianAriasu/florianAriasu/blob/output/github-snake-dark.svg)
 
+![gitartwork](gitartwork.svg)
+
 
