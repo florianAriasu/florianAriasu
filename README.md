@@ -18,10 +18,8 @@
   </a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/florianAriasu/florianAriasu/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/florianAriasu/florianAriasu/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/florianAriasu/florianAriasu/output/dist/github-contribution-grid-snake.svg" />
-</picture>
+## Watch snake eating my github contributions 
+ 
+![snake_gif](https://github.com/florianAriasu/florianAriasu/blob/output/github-snake-dark.svg)
 
 
