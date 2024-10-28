@@ -10,6 +10,7 @@
     <img height=200 width=330 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=florianAriasu&layout=compact&langs_count=8&theme=tokyonight" />
   </a>
 </div>
+<br>
 
 <h2 align=center>Languages and Tools</h2>
 
