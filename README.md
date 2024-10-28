@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## My Contributions 
+<h2 align=center>My Contributions</h2>
 
 <div align="center">
     
