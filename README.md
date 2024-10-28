@@ -6,7 +6,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=florianAriasu&show_icons=true&theme=tokyonight" /> 
 </a>
 <a href="https://github.com/florianAriasu/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florianAriasu&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=florianAriasu&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
 <h2 align=center>Languages and Tools</h2>
@@ -24,5 +24,3 @@
     
   ![snake gif](https://github.com/florianAriasu/florianAriasu/blob/output/github-snake-dark.svg)
 </div>
-
-[![Florian Ariasu profile views](https://u8views.com/api/v1/github/profiles/119046752/views/total-count.svg)](https://u8views.com/github/florianAriasu)
