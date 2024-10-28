@@ -18,7 +18,7 @@
   </a>
 </p>
 
-## Snake github contributions 
+## My Contributions 
 
 <div align="center">
     
