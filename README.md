@@ -25,3 +25,4 @@
   ![snake gif](https://github.com/florianAriasu/florianAriasu/blob/output/github-snake-dark.svg)
 </div>
 
+[![Florian Ariasu profile views](https://u8views.com/api/v1/github/profiles/119046752/views/day-week-month-total-count.svg)](https://u8views.com/github/florianAriasu)
