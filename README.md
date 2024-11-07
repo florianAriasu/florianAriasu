@@ -19,8 +19,8 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java&theme=dark" alt="Languages and tools icons"/><br>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,neovim,bash,linux,ubuntu,md&theme=dark" alt="Languages and tools icons"/>
-      <img src="https://skillicons.dev/icons?i=bash,linux,ubuntu,md&theme=dark" alt="Languages and tools icons"/>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,neovim,bash,linux,ubuntu,md&theme=dark" alt="Languages and tools icons"/><br>
+    <img src="https://skillicons.dev/icons?i=bash,linux,ubuntu,md&theme=dark" alt="Languages and tools icons"/>
   </a>
 </p>
 
