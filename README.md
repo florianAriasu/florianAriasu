@@ -4,7 +4,7 @@
 
 <div align="center">
     <a href="https://github.com/florianAriasu/github-readme-stats">
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=florianAriasu&show_icons=true&theme=tokyonight" /> 
+        <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=florianAriasu&show_icons=true&theme=tokyonight" /> 
     </a>
 <div>
 <div align="center">
