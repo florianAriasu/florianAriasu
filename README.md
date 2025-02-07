@@ -14,14 +14,42 @@
 </div>
 <br>
 
-<h2 align=center>Languages and Tools</h2>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,lua&theme=dark" alt="Languages and tools icons"/><br>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,neovim,bash,linux,gitlab,md&theme=dark" alt="Languages and tools icons"/>
-  </a>
-</p>
+<div align="center">
+
+### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,lua,python&theme=dark)](https://skillicons.dev)
+
+### Development Tools & Environments
+[![Development Tools](https://skillicons.dev/icons?i=git,github,docker,neovim,vim,bash,linux,gitlab,md&theme=dark)](https://skillicons.dev)
+
+### IDEs & Additional Tools
+[![IDEs and Tools](https://skillicons.dev/icons?i=idea,pycharm,clion,regex,githubactions&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<!-- Optional: Add detailed descriptions -->
+<details>
+<summary>💡 Detailed Expertise</summary>
+
+#### Languages
+- **Systems Programming:** C, C++
+- **Application Development:** Java, Python, Lua
+
+#### Tools & Platforms
+- **Version Control:** Git, GitHub, GitLab
+- **Containerization:** Docker
+- **Development Environment:** Neovim, Vim, Linux
+- **Shell Scripting:** Bash
+- **Documentation:** Markdown
+- **Text Processing:** Regular Expressions
+- **CI/CD:** GitHub Actions
+
+#### IDEs
+- **JetBrains Suite:** IntelliJ IDEA, PyCharm, CLion
+
+</details>
 
 <h2 align=center>My Contributions</h2>
 
