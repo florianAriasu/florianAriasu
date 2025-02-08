@@ -54,7 +54,7 @@
 - **Technical Writing & Formatting:** Markdown  
 </details>
 
-<h2></h2>
+
 
 <h2 align=center>My Contributions</h2>
 
