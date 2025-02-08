@@ -19,13 +19,16 @@
 <div align="center">
 
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,lua,python&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,lua&theme=dark)](https://skillicons.dev)
 
-### Development Tools & Environments
-[![Development Tools](https://skillicons.dev/icons?i=git,github,docker,neovim,vim,bash,linux,gitlab,md&theme=dark)](https://skillicons.dev)
+### Development & DevOps Tools
+[![Development & DevOps Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,githubactions,regex&theme=dark)](https://skillicons.dev)
 
-### IDEs & Additional Tools
-[![IDEs and Tools](https://skillicons.dev/icons?i=idea,pycharm,clion,regex,githubactions&theme=dark)](https://skillicons.dev)
+### Code Editors & IDEs
+[![Code Editors & IDEs](https://skillicons.dev/icons?i=neovim,idea,clion&theme=dark)](https://skillicons.dev)
+
+### Documentation & Markup Languages
+[![Documentation & Markup](https://skillicons.dev/icons?i=md&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -33,23 +36,25 @@
 <details>
 <summary>💡 Detailed Expertise</summary>
 
-#### Languages
+### Programming Languages
 - **Systems Programming:** C, C++
-- **Application Development:** Java, Python, Lua
+- **Application Development:** Java, Lua
 
-#### Tools & Platforms
-- **Version Control:** Git, GitHub, GitLab
-- **Containerization:** Docker
-- **Development Environment:** Neovim, Vim, Linux
-- **Shell Scripting:** Bash
-- **Documentation:** Markdown
-- **Text Processing:** Regular Expressions
-- **CI/CD:** GitHub Actions
+### Development & DevOps Tools
+- **Version Control:** Git, GitHub, GitLab  
+- **Containerization & Automation:** Docker, GitHub Actions  
+- **Operating Systems & Shell Scripting:** Linux, Bash  
+- **Text Processing & Pattern Matching:** Regular Expressions (Regex)  
 
-#### IDEs
-- **JetBrains Suite:** IntelliJ IDEA, PyCharm, CLion
+### Code Editors & IDEs
+- **Editors:** Neovim, VS Code  
+- **JetBrains Suite:** IntelliJ IDEA, CLion  
 
+### Documentation & Markup Languages
+- **Technical Writing & Formatting:** Markdown  
 </details>
+
+<h2></h2>
 
 <h2 align=center>My Contributions</h2>
 
