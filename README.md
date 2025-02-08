@@ -33,28 +33,6 @@
 </div>
 
 <!-- Optional: Add detailed descriptions -->
-<details>
-<summary>💡 Detailed Expertise</summary>
-
-### Programming Languages
-- **Systems Programming:** C, C++
-- **Application Development:** Java, Lua
-
-### Development & DevOps Tools
-- **Version Control:** Git, GitHub, GitLab  
-- **Containerization & Automation:** Docker, GitHub Actions  
-- **Operating Systems & Shell Scripting:** Linux, Bash  
-- **Text Processing & Pattern Matching:** Regular Expressions (Regex)  
-
-### Code Editors & IDEs
-- **Editors:** Neovim, VS Code  
-- **JetBrains Suite:** IntelliJ IDEA, CLion  
-
-### Documentation & Markup Languages
-- **Technical Writing & Formatting:** Markdown  
-</details>
-
-
 
 <h2 align=center>My Contributions</h2>
 
