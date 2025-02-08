@@ -32,8 +32,6 @@
 
 </div>
 
-<!-- Optional: Add detailed descriptions -->
-
 <h2 align=center>My Contributions</h2>
 
 <div align="center">
