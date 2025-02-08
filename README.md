@@ -28,7 +28,7 @@
 [![Code Editors & IDEs](https://skillicons.dev/icons?i=neovim,idea,clion&theme=dark)](https://skillicons.dev)
 
 ### Documentation & Markup Languages
-[![Documentation & Markup](https://skillicons.dev/icons?i=md&theme=dark)](https://skillicons.dev)
+[![Documentation & Markup](https://skillicons.dev/icons?i=md,html&theme=dark)](https://skillicons.dev)
 
 </div>
 
