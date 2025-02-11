@@ -36,5 +36,5 @@
 
 <div align="center">
     
-  ![snake gif](https://github.com/florianAriasu/florianAriasu/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/florian-ariasu/florian-ariasu/blob/output/github-snake-dark.svg)
 </div>
