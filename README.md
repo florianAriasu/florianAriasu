@@ -19,13 +19,13 @@
 <div align="center">
 
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,lua&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark)](https://skillicons.dev)
 
 ### Development & DevOps Tools
 [![Development & DevOps Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,githubactions,regex&theme=dark)](https://skillicons.dev)
 
 ### Code Editors & IDEs
-[![Code Editors & IDEs](https://skillicons.dev/icons?i=neovim,idea,clion,vscode&theme=dark)](https://skillicons.dev)
+[![Code Editors & IDEs](https://skillicons.dev/icons?i=neovim,clion,idea,pycharm&theme=dark)](https://skillicons.dev)
 
 ### Documentation & Markup Languages
 [![Documentation & Markup](https://skillicons.dev/icons?i=md&theme=dark)](https://skillicons.dev)
