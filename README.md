@@ -32,7 +32,7 @@
 
 </div>
 
-<h2 align=center>My Contributions</h2>
+<h2 align=center>My contributions</h2>
 
 <div align="center">
     
