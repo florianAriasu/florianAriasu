@@ -24,7 +24,7 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 #### **DevOps & Cloud**
 - Docker, Kubernetes, Terraform
-- Git, GitHub Actions
+- Git, CI/CD with GitHub Actions and GitLab CI/CD
 - Linux, Bash scripting
 
 #### **Software Development**
