@@ -1,7 +1,4 @@
 # Florian Ariașu
-Bachelor of Computer Science and Engineering (2026) | University POLITEHNICA of Bucharest
-Aspiring DevOps Engineer & Software Developer
-
 Welcome to my GitHub! I'm Florian, an undergraduate **Computer Science student** with a strong interest in **DevOps** and **software development**. I'm currently building my expertise in cloud computing, automation, and scalable infrastructure while also exploring various areas of development.
 
 I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I'm continuously learning new tools and technologies to enhance my skills. My goal is to transition into a **DevOps Engineer** role while maintaining a solid foundation in software development.
@@ -44,7 +41,7 @@ Even though I'm focused on DevOps, I've worked on projects across different area
 - **[DevOps PreQ Kodekloud](https://github.com/florian-ariasu/devops-preq-kodekloud)**
   My journey through DevOps prerequisites, covering Docker, Kubernetes, Terraform, and CI/CD.
 
-- **[Image Processing DSL](https://github.com/florian-ariasu/dsl-image-processing)**
+- **[Image Processing DSL](https://github.com/florian-ariasu/functional-images-dsl)**
   A domain-specific language (DSL) for image processing, using functional programming concepts.
 
 - **[Cloud Infrastructure Automation](https://github.com/florian-ariasu/cloud-infrastructure-automation)**
@@ -56,4 +53,3 @@ Even though I'm focused on DevOps, I've worked on projects across different area
 
 - **LinkedIn**: [florian-ariasu](https://linkedin.com/in/florian-ariasu)
 - **Email**: florian.ariasu@domain.com
-- **GitHub**: [florian-ariasu](https://github.com/florian-ariasu)
