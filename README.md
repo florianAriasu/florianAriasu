@@ -1,4 +1,3 @@
-```markdown
 # Florian Ariasu
 Bachelor of Computer Science and Engineering (2026) | University POLITEHNICA of Bucharest
 Aspiring DevOps Engineer & Software Developer
