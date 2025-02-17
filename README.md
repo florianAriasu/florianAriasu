@@ -4,12 +4,12 @@ Welcome to my GitHub! I'm Florian, an undergraduate **Computer Science student**
 
 I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I'm continuously learning new tools and technologies to enhance my skills. My goal is to transition into a **DevOps Engineer** role while maintaining a solid foundation in software development.
 
-### 📊 **Development Activity**
-![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=florian-ariasu&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=transparent&hide_rank=true)
+### Development Activity
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=florian-ariasu&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=transparent&hide_rank=true&include_all_commits=true)
 
 ---
 
-### 🌱 **Currently Learning**
+### Currently Learning
 - **DevOps Fundamentals** – CI/CD, Infrastructure as Code (IaC), automation
 - **Linux & Shell Scripting** – Bash, Zsh, system administration
 - **Cloud & Containerization** – Docker, Kubernetes, Terraform
@@ -17,15 +17,16 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-### 🚀 **Technologies & Tools**
+### Technologies & Tools
 #### **Languages**
 - C, C++, Java (intermediate)
-- Python, Haskell, Assembly (academic experience)
+- Python, Haskell, Racket, Assembly (academic experience)
 
 #### **DevOps & Cloud**
-- Docker, Kubernetes, Terraform
-- Git, CI/CD with GitHub Actions and GitLab CI/CD
-- Linux, Bash scripting
+- Containerization: Docker, Kubernetes
+- Infrastructure as Code: Terraform
+- Version Control & CI/CD: Git, GitHub Actions, GitLab CI
+- Linux Systems Administration
 
 #### **Software Development**
 - Operating Systems & Systems Programming
@@ -35,21 +36,21 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-### 📌 **Notable Projects**
+### Notable Projects
 - **[Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)**
-  A sophisticated Java-based backend system for museum database and tourist group management, featuring real-time event notifications. Implements enterprise design patterns including Singleton, Builder, Factory, Command, and Observer patterns.
-  - **Technologies**: Java, OOP, Design Patterns, Event-Driven Architecture
+ A sophisticated Java-based backend system for museum database and tourist group management, featuring real-time event notifications. Implements enterprise design patterns including Singleton, Builder, Factory, Command, and Observer patterns.
+ - **Technologies**: Java, OOP, Design Patterns, Event-Driven Architecture
 
 - **[Functional Image Processing DSL](https://github.com/florian-ariasu/functional-image-processing-dsl)**
-  A domain-specific language (DSL) for image processing, using functional programming concepts.
-  - **Technologies**: Haskell, Functional Programming, DSL
+ A domain-specific language for 2D image region manipulation, implementing both shallow and deep embeddings. Features advanced folding mechanisms, custom type classes, and AST-based transformations for complex geometric operations.
+ - **Technologies**: Haskell, Functional Programming, AST, Type Systems
 
-- **[Server Colour Encrypt](https://github.com/florian-ariasu/server-colour-encrypt)**
-  Implementation of advanced algorithms focusing on searching, dynamic programming, and optimization problems. Includes solutions for server power optimization, compression algorithms, and dynamic programming challenges.
-  - **Technologies**: C++, Algorithms, Data Structures, Dynamic Programming
+- **[Algorithm Optimization Suite](https://github.com/florian-ariasu/algorithm-optimization-suite)**
+ A collection of optimized algorithms implementing diverse computational challenges, including binary search for server power optimization (O(log n)), modular exponentiation for coloring problems (O(n)), and dynamic programming for pricing optimization (O(n)).
+ - **Technologies**: C++, Algorithm Design, Data Structures, Computational Optimization
 
 ---
 
-### 💬 **Let's Connect**
+### Connect
 - **LinkedIn**: [Florian Ariașu](https://linkedin.com/in/florianariasu)
 - **Email**: ariasu.florian@gmail.com
