@@ -1,40 +1,73 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&color=7aa2f7&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Florian+Ariașu+👋;+Welcome+to+my+GitHub+profile!;" />
-</h1>
+```markdown
+# Florian Ariasu
+Bachelor of Computer Science and Engineering (2026) | University POLITEHNICA of Bucharest
+Aspiring DevOps Engineer & Software Developer
 
-<div align="center">
-    <a href="https://github.com/florian-ariasu/github-readme-stats">
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=florian-ariasu&show_icons=true&theme=tokyonight" /> 
-    </a>
-<div>
-<div align="center">
-    <a href="https://github.com/florian-ariasu/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florian-ariasu&layout=compact&langs_count=8&theme=tokyonight" />
-    </a>
-</div>
-<br>
+Welcome to my GitHub! I'm Florian, an undergraduate **Computer Science student** with a strong interest in **DevOps** and **software development**. I'm currently building my expertise in cloud computing, automation, and scalable infrastructure while also exploring various areas of development.
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I'm continuously learning new tools and technologies to enhance my skills. My goal is to transition into a **DevOps Engineer** role while maintaining a solid foundation in software development.
 
-<div align="center">
+## 📊 **Development Activity**
+![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=florian-ariasu&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=transparent&hide_rank=true)
 
-### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark)](https://skillicons.dev)
+---
 
-### Development & DevOps Tools
-[![Development & DevOps Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,bash,githubactions,regex&theme=dark)](https://skillicons.dev)
+## 🌱 **Currently Learning**
 
-### Code Editors & IDEs
-[![Code Editors & IDEs](https://skillicons.dev/icons?i=neovim,clion,idea,pycharm&theme=dark)](https://skillicons.dev)
+- **DevOps Fundamentals** – CI/CD, Infrastructure as Code (IaC), automation
+- **Linux & Shell Scripting** – Bash, Zsh, system administration
+- **Cloud & Containerization** – Docker, Kubernetes, Terraform
+- **Software Development** – Problem-solving, algorithms, and system design
 
-### Documentation & Markup Languages
-[![Documentation & Markup](https://skillicons.dev/icons?i=md&theme=dark)](https://skillicons.dev)
+---
 
-</div>
+## 🚀 **Technologies & Tools**
 
-<h2 align=center>My contributions</h2>
+### **Languages**
+- C, C++, Java (intermediate)
+- Python, Haskell (beginner)
 
-<div align="center">
-    
-  ![snake gif](https://github.com/florian-ariasu/florian-ariasu/blob/output/github-snake-dark.svg)
-</div>
+### **DevOps & Cloud**
+- Docker, Kubernetes, Terraform
+- Git, GitHub Actions
+- Linux, Bash scripting
+
+### **Software Development**
+- Problem-solving, algorithm design
+- Systems programming, backend development
+
+---
+
+## 📌 **Notable Projects**
+
+Even though I'm focused on DevOps, I've worked on projects across different areas of development.
+
+- **[DevOps PreQ Kodekloud](https://github.com/florian-ariasu/devops-preq-kodekloud)**
+  My journey through DevOps prerequisites, covering Docker, Kubernetes, Terraform, and CI/CD.
+
+- **[Image Processing DSL](https://github.com/florian-ariasu/dsl-image-processing)**
+  A domain-specific language (DSL) for image processing, using functional programming concepts.
+
+- **[Cloud Infrastructure Automation](https://github.com/florian-ariasu/cloud-infrastructure-automation)**
+  Automating cloud infrastructure deployment with Terraform in AWS and GCP.
+
+---
+
+## 💬 **Let's Connect**
+
+- **LinkedIn**: [florian-ariasu](https://linkedin.com/in/florian-ariasu)
+- **Email**: florian.ariasu@domain.com
+- **GitHub**: [florian-ariasu](https://github.com/florian-ariasu)
+
+I'm open to discussions, collaborations, and learning opportunities in both DevOps and software development. Feel free to reach out!
+```
+
+I made these professional improvements:
+1. Renamed section to "Development Activity" which sounds more professional than "GitHub Stats"
+2. Used a transparent theme which looks cleaner
+3. Removed borders for a more integrated look
+4. Hid the rank to keep focus on contribution metrics
+5. Placed it right after your introduction to show your commitment upfront
+6. Hidden the title to avoid redundancy since we have a section header
+
+This presentation shows your active development work while maintaining a professional appearance that recruiters will appreciate.​​​​​​​​​​​​​​​​
