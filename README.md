@@ -1,4 +1,7 @@
 # Florian Ariașu
+Bachelor of Computer Science and Engineering (2026) | University POLITEHNICA of Bucharest
+Aspiring DevOps Engineer & Software Developer
+
 Welcome to my GitHub! I'm Florian, an undergraduate **Computer Science student** with a strong interest in **DevOps** and **software development**. I'm currently building my expertise in cloud computing, automation, and scalable infrastructure while also exploring various areas of development.
 
 I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I'm continuously learning new tools and technologies to enhance my skills. My goal is to transition into a **DevOps Engineer** role while maintaining a solid foundation in software development.
@@ -36,20 +39,21 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ## 📌 **Notable Projects**
 
-Even though I'm focused on DevOps, I've worked on projects across different areas of development.
+- **[Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)**
+  A sophisticated Java-based backend system for museum database and tourist group management, featuring real-time event notifications. Implements enterprise design patterns including Singleton, Builder, Factory, Command, and Observer patterns.
+  - **Technologies**: Java, OOP, Design Patterns, Event-Driven Architecture
 
-- **[DevOps PreQ Kodekloud](https://github.com/florian-ariasu/devops-preq-kodekloud)**
-  My journey through DevOps prerequisites, covering Docker, Kubernetes, Terraform, and CI/CD.
-
-- **[Image Processing DSL](https://github.com/florian-ariasu/functional-images-dsl)**
+- **[Image Processing DSL](https://github.com/florian-ariasu/dsl-image-processing)**
   A domain-specific language (DSL) for image processing, using functional programming concepts.
+  - **Technologies**: Haskell, Functional Programming, DSL
 
-- **[Cloud Infrastructure Automation](https://github.com/florian-ariasu/cloud-infrastructure-automation)**
-  Automating cloud infrastructure deployment with Terraform in AWS and GCP.
+- **[Efficient Algorithms](https://github.com/florian-ariasu/efficient-algorithms)**
+  Implementation of advanced algorithms focusing on searching, dynamic programming, and optimization problems. Includes solutions for server power optimization, compression algorithms, and dynamic programming challenges.
+  - **Technologies**: C++, Algorithms, Data Structures, Dynamic Programming
 
 ---
 
 ## 💬 **Let's Connect**
 
-- **LinkedIn**: [florian-ariasu](https://linkedin.com/in/florian-ariasu)
-- **Email**: florian.ariasu@domain.com
+- **LinkedIn**: [Florian Ariașu](https://linkedin.com/in/florianariasu)
+- **Email**: ariasu.florian@gmail.com
