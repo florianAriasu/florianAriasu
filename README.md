@@ -1,17 +1,16 @@
-# Florian Ariașu
-Bachelor of Computer Science and Engineering (2026) | University POLITEHNICA of Bucharest
+## Florian Ariașu
 Aspiring DevOps Engineer & Software Developer
 
 Welcome to my GitHub! I'm Florian, an undergraduate **Computer Science student** with a strong interest in **DevOps** and **software development**. I'm currently building my expertise in cloud computing, automation, and scalable infrastructure while also exploring various areas of development.
 
 I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I'm continuously learning new tools and technologies to enhance my skills. My goal is to transition into a **DevOps Engineer** role while maintaining a solid foundation in software development.
 
-## 📊 **Development Activity**
+### 📊 **Development Activity**
 ![GitHub Contribution Stats](https://github-readme-stats.vercel.app/api?username=florian-ariasu&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=transparent&hide_rank=true)
 
 ---
 
-## 🌱 **Currently Learning**
+### 🌱 **Currently Learning**
 
 - **DevOps Fundamentals** – CI/CD, Infrastructure as Code (IaC), automation
 - **Linux & Shell Scripting** – Bash, Zsh, system administration
@@ -20,24 +19,24 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-## 🚀 **Technologies & Tools**
+### 🚀 **Technologies & Tools**
 
-### **Languages**
+#### **Languages**
 - C, C++, Java (intermediate)
 - Python, Haskell (beginner)
 
-### **DevOps & Cloud**
+#### **DevOps & Cloud**
 - Docker, Kubernetes, Terraform
 - Git, GitHub Actions
 - Linux, Bash scripting
 
-### **Software Development**
+#### **Software Development**
 - Problem-solving, algorithm design
 - Systems programming, backend development
 
 ---
 
-## 📌 **Notable Projects**
+### 📌 **Notable Projects**
 
 - **[Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)**
   A sophisticated Java-based backend system for museum database and tourist group management, featuring real-time event notifications. Implements enterprise design patterns including Singleton, Builder, Factory, Command, and Observer patterns.
@@ -53,7 +52,7 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-## 💬 **Let's Connect**
+### 💬 **Let's Connect**
 
 - **LinkedIn**: [Florian Ariașu](https://linkedin.com/in/florianariasu)
 - **Email**: ariasu.florian@gmail.com
