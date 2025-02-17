@@ -1,5 +1,4 @@
-## Florian Ariașu
-Aspiring DevOps Engineer & Software Developer
+# Florian Ariașu
 
 Welcome to my GitHub! I'm Florian, an undergraduate **Computer Science student** with a strong interest in **DevOps** and **software development**. I'm currently building my expertise in cloud computing, automation, and scalable infrastructure while also exploring various areas of development.
 
@@ -11,7 +10,6 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 ---
 
 ### 🌱 **Currently Learning**
-
 - **DevOps Fundamentals** – CI/CD, Infrastructure as Code (IaC), automation
 - **Linux & Shell Scripting** – Bash, Zsh, system administration
 - **Cloud & Containerization** – Docker, Kubernetes, Terraform
@@ -20,7 +18,6 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 ---
 
 ### 🚀 **Technologies & Tools**
-
 #### **Languages**
 - C, C++, Java (intermediate)
 - Python, Haskell (beginner)
@@ -37,22 +34,20 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 ---
 
 ### 📌 **Notable Projects**
-
-- **[tourist application backend](https://github.com/florian-ariasu/tourist-application-backend)**
+- **[Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)**
   A sophisticated Java-based backend system for museum database and tourist group management, featuring real-time event notifications. Implements enterprise design patterns including Singleton, Builder, Factory, Command, and Observer patterns.
   - **Technologies**: Java, OOP, Design Patterns, Event-Driven Architecture
 
-- **[functional-image-processing-dsl](https://github.com/florian-ariasu/functional-image-processing-dsl)**
+- **[Functional Image Processing DSL](https://github.com/florian-ariasu/functional-image-processing-dsl)**
   A domain-specific language (DSL) for image processing, using functional programming concepts.
   - **Technologies**: Haskell, Functional Programming, DSL
 
-- **[server-colour-encrypt](https://github.com/florian-ariasu/server-colour-encrypt)**
+- **[Server Colour Encrypt](https://github.com/florian-ariasu/server-colour-encrypt)**
   Implementation of advanced algorithms focusing on searching, dynamic programming, and optimization problems. Includes solutions for server power optimization, compression algorithms, and dynamic programming challenges.
   - **Technologies**: C++, Algorithms, Data Structures, Dynamic Programming
 
 ---
 
 ### 💬 **Let's Connect**
-
 - **LinkedIn**: [Florian Ariașu](https://linkedin.com/in/florianariasu)
 - **Email**: ariasu.florian@gmail.com
