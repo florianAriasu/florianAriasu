@@ -4,12 +4,12 @@ Welcome to my GitHub! I'm Florian, an undergraduate **Computer Science student**
 
 I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I'm continuously learning new tools and technologies to enhance my skills. My goal is to transition into a **DevOps Engineer** role while maintaining a solid foundation in software development.
 
-### Development Activity
+### 📈 Development Activity
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=florian-ariasu&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=transparent&hide_rank=true&include_all_commits=true)
 
 ---
 
-### Currently Learning
+### 🎓 Currently Learning
 - **DevOps Fundamentals** – CI/CD, Infrastructure as Code (IaC), automation
 - **Linux & Shell Scripting** – Bash, Zsh, system administration
 - **Cloud & Containerization** – Docker, Kubernetes, Terraform
@@ -17,7 +17,7 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-### Technologies & Tools
+### 🛠 Technologies & Tools
 #### **Languages**
 - C, C++, Java (intermediate)
 - Python, Haskell, Racket, Assembly (academic experience)
@@ -36,7 +36,7 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-### Notable Projects
+### 📌 Notable Projects
 - **[Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)**
  A sophisticated Java-based backend system for museum database and tourist group management, featuring real-time event notifications. Implements enterprise design patterns including Singleton, Builder, Factory, Command, and Observer patterns.
   - **Technologies**: Java, OOP, Design Patterns, Event-Driven Architecture
@@ -51,6 +51,6 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-### Connect
+### 🔗 Connect
 - **LinkedIn**: [Florian Ariașu](https://linkedin.com/in/florianariasu)
 - **Email**: ariasu.florian@gmail.com
