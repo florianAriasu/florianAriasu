@@ -13,14 +13,14 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 - **DevOps Fundamentals** – CI/CD, Infrastructure as Code (IaC), automation
 - **Linux & Shell Scripting** – Bash, Zsh, system administration
 - **Cloud & Containerization** – Docker, Kubernetes, Terraform
-- **Software Development** – Problem-solving, algorithms, and system design
+- **Software Development** – Systems programming, distributed systems, database design
 
 ---
 
 ### 🚀 **Technologies & Tools**
 #### **Languages**
 - C, C++, Java (intermediate)
-- Python, Haskell (beginner)
+- Python, Haskell, Assembly (academic experience)
 
 #### **DevOps & Cloud**
 - Docker, Kubernetes, Terraform
@@ -28,8 +28,10 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 - Linux, Bash scripting
 
 #### **Software Development**
-- Problem-solving, algorithm design
-- Systems programming, backend development
+- Operating Systems & Systems Programming
+- Object-Oriented & Functional paradigms
+- Network programming & distributed systems
+- Algorithm design & analysis
 
 ---
 
