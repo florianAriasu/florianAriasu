@@ -38,11 +38,11 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ### 📌 **Notable Projects**
 
-- **[Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)**
+- **[tourist application backend](https://github.com/florian-ariasu/tourist-application-backend)**
   A sophisticated Java-based backend system for museum database and tourist group management, featuring real-time event notifications. Implements enterprise design patterns including Singleton, Builder, Factory, Command, and Observer patterns.
   - **Technologies**: Java, OOP, Design Patterns, Event-Driven Architecture
 
-- **[Image Processing DSL](https://github.com/florian-ariasu/dsl-image-processing)**
+- **[functional-image-processing-dsl](https://github.com/florian-ariasu/functional-image-processing-dsl)**
   A domain-specific language (DSL) for image processing, using functional programming concepts.
   - **Technologies**: Haskell, Functional Programming, DSL
 
