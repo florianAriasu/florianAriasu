@@ -47,7 +47,7 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
   A domain-specific language (DSL) for image processing, using functional programming concepts.
   - **Technologies**: Haskell, Functional Programming, DSL
 
-- **[Efficient Algorithms](https://github.com/florian-ariasu/efficient-algorithms)**
+- **[Efficient Algorithms](https://github.com/florian-ariasu/server-colour-encrypt)**
   Implementation of advanced algorithms focusing on searching, dynamic programming, and optimization problems. Includes solutions for server power optimization, compression algorithms, and dynamic programming challenges.
   - **Technologies**: C++, Algorithms, Data Structures, Dynamic Programming
 
