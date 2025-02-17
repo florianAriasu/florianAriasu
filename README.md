@@ -1,4 +1,3 @@
-# Florian Ariașu
 
 Welcome to my GitHub! I'm Florian, an undergraduate **Computer Science student** with a strong interest in **DevOps** and **software development**. I'm currently building my expertise in cloud computing, automation, and scalable infrastructure while also exploring various areas of development.
 
