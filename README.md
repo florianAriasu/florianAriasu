@@ -1,8 +1,8 @@
 ## Professional Overview  
 
-I'm Florian, an undergraduate Computer Science student focused on DevOps practices and software development. My current areas of exploration include cloud computing, automation, and scalable infrastructure development.
+I'm Florian, an undergraduate Computer Science student specialising in DevOps practices and software development. My focus areas include cloud computing, automation, and scalable infrastructure.
 
-I work with Linux environments, version control through Git, and shell scripting (Bash/Zsh). Having implemented automation workflows with GitHub Actions, I'm actively expanding my knowledge of CI/CD practices. My goal is to build comprehensive expertise in DevOps and software engineering, emphasizing automation, scalability, and efficient development methodologies.  
+I have experience with Linux environments, Git-based version control, and shell scripting (Bash/Zsh). Having implemented automation workflows with GitHub Actions, I am deepening my expertise in CI/CD practices. My goal is to build comprehensive proficiency in DevOps and software engineering, emphasising automation, scalability, and efficient development methodologies.
 
 ---
 
