@@ -57,7 +57,7 @@ I enjoy working with Linux, shell scripting, Git, and CI/CD pipelines, and I’m
 * Pricing optimization through **dynamic programming** (O(n))  
 * **Technologies:** C++, Algorithm Design, Data Structures, Computational Optimization  
 
-#### [Suffix Tree Implementation](https://github.com/florian-ariasu/suffix-tree-implementation)  
+#### [Suffix Tree Implementation (C)](https://github.com/florian-ariasu/suffix-tree-implementation)  
 * Standard and compressed suffix trees for efficient pattern matching  
 * Optimized tree construction with memory-efficient path compression  
 * **Technologies:** C, Data Structures, Algorithms, Memory Management, Text Processing  
