@@ -6,12 +6,12 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-###  Development Activity  
+### GitHub Activity  
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=florian-ariasu&show_icons=true&hide_title=true&count_private=true&hide_border=true&theme=transparent&hide_rank=true&include_all_commits=true)  
 
 ---
 
-### Currently Learning  
+### Learning & Development Focus  
 - **DevOps & Cloud** – CI/CD, Infrastructure as Code (Terraform), automation  
 - **Linux & Shell Scripting** – Bash, Zsh, system administration  
 - **Containerization & Orchestration** – Docker, Kubernetes  
@@ -39,7 +39,7 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-### Notable Projects  
+### Highlighted Projects  
 
 #### [Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)  
 * Backend system for museum and tourist group management with real-time notifications  
@@ -64,6 +64,6 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-### Connect  
+### Contact Information  
 - **LinkedIn:** [Florian Ariașu](https://linkedin.com/in/florianariasu)  
-- **Email:** ariasu.florian@gmail.com  
+- **Email:** ariasu.florian@gmail.com
