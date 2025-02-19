@@ -64,6 +64,6 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 
 ---
 
-### 🔗 Connect  
+### Connect  
 - **LinkedIn:** [Florian Ariașu](https://linkedin.com/in/florianariasu)  
 - **Email:** ariasu.florian@gmail.com  
