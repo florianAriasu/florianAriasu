@@ -48,6 +48,10 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
  A collection of optimized algorithms implementing diverse computational challenges, including binary search for server power optimization (O(log n)), modular exponentiation for coloring problems (O(n)), and dynamic programming for pricing optimization (O(n)).
   - **Technologies**: C++, Algorithm Design, Data Structures, Computational Optimization
 
+- **[Suffix Tree Implementation](https://github.com/florian-ariasu/suffix-tree-implementation)**  
+  A sophisticated implementation of standard and compressed suffix trees designed for efficient pattern matching and text analysis. Includes tree construction, statistical analysis, and memory optimization through path compression.  
+  - **Technologies**: C, Data Structures, Algorithms, Memory Management, Text Processing, Compression
+
 ---
 
 ### 🔗 Connect
