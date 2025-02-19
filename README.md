@@ -36,15 +36,15 @@ I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I
 ---
 
 ### 📌 Notable Projects
-- **[Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)**
+- **[Tourist Application Backend](https://github.com/florian-ariasu/tourist-application-backend)** 
   A sophisticated Java-based backend system for museum database and tourist group management, featuring real-time event notifications. Implements enterprise design patterns including Singleton, Builder, Factory, Command, and Observer patterns.
   - **Technologies**: Java, OOP, Design Patterns, Event-Driven Architecture
 
-- **[Functional Image Processing DSL](https://github.com/florian-ariasu/functional-image-processing-dsl)**
+- **[Functional Image Processing DSL](https://github.com/florian-ariasu/functional-image-processing-dsl)** 
   A domain-specific language for 2D image region manipulation, implementing both shallow and deep embeddings. Features advanced folding mechanisms, custom type classes, and AST-based transformations for complex geometric operations.
   - **Technologies**: Haskell, Functional Programming, AST, Type Systems
 
-- **[Algorithm Optimization Suite](https://github.com/florian-ariasu/algorithm-optimization-suite)**
+- **[Algorithm Optimization Suite](https://github.com/florian-ariasu/algorithm-optimization-suite)** 
   A collection of optimized algorithms implementing diverse computational challenges, including binary search for server power optimization (O(log n)), modular exponentiation for coloring problems (O(n)), and dynamic programming for pricing optimization (O(n)).
   - **Technologies**: C++, Algorithm Design, Data Structures, Computational Optimization
 
