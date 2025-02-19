@@ -35,7 +35,7 @@ I enjoy working with Linux, shell scripting, Git, and CI/CD pipelines, and I’m
 - Operating Systems & Systems Programming  
 - Object-Oriented & Functional Paradigms  
 - Network Programming & Distributed Systems  
-- Algorithm Design & Optimization  
+- Algorithm Design & Optimisation  
 
 ---
 
@@ -51,15 +51,15 @@ I enjoy working with Linux, shell scripting, Git, and CI/CD pipelines, and I’m
 * Custom type classes and AST-based transformations for geometric operations  
 * **Technologies:** Haskell, Functional Programming, AST, Type Systems  
 
-#### [Algorithm Optimization Suite](https://github.com/florian-ariasu/algorithm-optimization-suite)  
-* Server power optimization using **binary search** (O(log n))  
+#### [Algorithm Optimisation Suite](https://github.com/florian-ariasu/algorithm-optimisation-suite)  
+* Server power optimisation using **binary search** (O(log n))  
 * Coloring problem solutions with **modular exponentiation** (O(n))  
-* Pricing optimization through **dynamic programming** (O(n))  
-* **Technologies:** C++, Algorithm Design, Data Structures, Computational Optimization  
+* Pricing optimisation through **dynamic programming** (O(n))  
+* **Technologies:** C++, Algorithm Design, Data Structures, Computational Optimisation  
 
 #### [Suffix Tree Implementation (C)](https://github.com/florian-ariasu/suffix-tree-implementation)  
 * Standard and compressed suffix trees for efficient pattern matching  
-* Optimized tree construction with memory-efficient path compression  
+* Optimised tree construction with memory-efficient path compression  
 * **Technologies:** C, Data Structures, Algorithms, Memory Management, Text Processing  
 
 ---
