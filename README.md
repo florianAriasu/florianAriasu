@@ -1,8 +1,8 @@
 ## Professional Overview  
 
-I'm Florian, an undergraduate **Computer Science student** with a strong interest in **DevOps** and **software development**. I'm currently building expertise in cloud computing, automation, and scalable infrastructure while exploring various areas of development.  
+I'm Florian, an undergraduate Computer Science student with a strong interest in DevOps and software development. I'm currently building expertise in cloud computing, automation, and scalable infrastructure while exploring various areas of development.
 
-I enjoy working with **Linux, shell scripting, Git, and CI/CD pipelines**, and I'm continuously learning new tools and technologies to enhance my skills. My goal is to transition into a **DevOps Engineer** role while maintaining a strong foundation in software development.  
+I enjoy working with Linux, shell scripting, Git, and CI/CD pipelines, and I’m continuously learning new tools and technologies to enhance my skills. My goal is to develop a strong foundation in both DevOps and software development, with a focus on leveraging automation, scalability, and efficient development practices.  
 
 ---
 
