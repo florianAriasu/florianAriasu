@@ -67,3 +67,5 @@ I work extensively with Linux environments, Git-based version control, and shell
 ### Contact Information  
 - **LinkedIn:** [Florian Ariașu](https://linkedin.com/in/florianariasu)  
 - **Email:** ariasu.florian@gmail.com
+
+[![Florian Ariașu profile views](https://u8views.com/api/v1/github/profiles/119046752/views/day-week-month-total-count.svg)](https://u8views.com/github/florian-ariasu)
