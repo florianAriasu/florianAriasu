@@ -57,7 +57,7 @@ I work extensively with Linux environments, Git-based version control, and shell
 * Pricing optimisation through **dynamic programming** (O(n))  
 * **Technologies:** C++, Algorithm Design, Data Structures, Computational Optimisation  
 
-#### [Suffix Tree Implementation - C](https://github.com/florian-ariasu/suffix-tree-implementation)  
+#### [Suffix Tree Implementation - C](https://github.com/florian-ariasu/c-suffix-tree-implementation)
 * Standard and compressed suffix trees for efficient pattern matching  
 * Optimised tree construction with memory-efficient path compression  
 * **Technologies:** C, Data Structures, Algorithms, Memory Management, Text Processing  
